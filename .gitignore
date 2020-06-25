@@ -1,2 +1,4 @@
 add/.idea
 *.json
+*.h5
+*.npy
